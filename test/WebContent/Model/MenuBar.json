@@ -1,0 +1,55 @@
+    {  
+        "Menu": [  
+            {  
+                "Value": "File",  
+                "SubMenu": [  
+                    {  
+                        "Value": "New"  
+                    },  
+                    {  
+                        "Value": "Save"  
+                    },  
+                    {  
+                        "Value": "Print"  
+                    },  
+                    {  
+                        "Value": "Close"  
+                    }  
+                ]  
+            },  
+            {  
+                "Value": "Edit",  
+                "SubMenu": [  
+                    {  
+                        "Value": "Undo"  
+                    },  
+                    {  
+                        "Value": "Redo"  
+                    },  
+                    {  
+                        "Value": "Cut"  
+                    },  
+                    {  
+                        "Value": "Copy"  
+                    },  
+                    {  
+                        "Value": "Paste"  
+                    }  
+                ]  
+            },  
+            {  
+                "Value": "Help",  
+                "SubMenu": [  
+                    {  
+                        "Value": "About"  
+                    },  
+                    {  
+                        "Value": "Install Updates"  
+                    },  
+                    {  
+                        "Value": "Search"  
+                    }  
+                ]  
+            }  
+        ]  
+    }  
